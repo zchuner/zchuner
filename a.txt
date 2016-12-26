@@ -1,0 +1,2 @@
+jkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk we are friends!!esa!wq
+/usr/bin/bash: wq: command not found
